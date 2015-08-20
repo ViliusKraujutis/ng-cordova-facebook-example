@@ -4,6 +4,8 @@ Facebook Oauth Example For Ionic Framework
 This example will demonstrate how to use ngCordova to authenticate with Facebook and retrieve
 an access token for use with the Facebook REST API.
 
+Login is done inside InAppBrowser. User needs to enter their password although native Facebook application has been logged in.
+
 
 Requirements
 -------------
